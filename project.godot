@@ -10,14 +10,15 @@ config_version=4
 
 [application]
 
-config/name="Hackathon-MuseumEduApp01"
+config/name="MuseumEduApp"
 run/main_scene="res://MuseumEduApp.tscn"
 config/icon="res://icon.png"
 
 [display]
 
-window/size/width=600
-window/size/height=800
+window/size/width=1290
+window/size/height=2796
+window/size/fullscreen=true
 window/stretch/mode="viewport"
 window/stretch/aspect="keep"
 
@@ -60,6 +61,11 @@ cam_zoom_in={
 cam_zoom_out={
 "deadzone": 0.5,
 "events": [ Object(InputEventMouseButton,"resource_local_to_scene":false,"resource_name":"","device":-1,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"button_mask":0,"position":Vector2( 0, 0 ),"global_position":Vector2( 0, 0 ),"factor":1.0,"button_index":5,"pressed":false,"doubleclick":false,"script":null)
+ ]
+}
+cam_drag={
+"deadzone": 0.5,
+"events": [ Object(InputEventMouseButton,"resource_local_to_scene":false,"resource_name":"","device":-1,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"button_mask":0,"position":Vector2( 0, 0 ),"global_position":Vector2( 0, 0 ),"factor":1.0,"button_index":1,"pressed":false,"doubleclick":false,"script":null)
  ]
 }
 
