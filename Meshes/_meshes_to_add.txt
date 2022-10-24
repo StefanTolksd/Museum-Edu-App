@@ -1,3 +1,12 @@
-Arnould.obj
-Gluck.obj
-Portrait.obj
+Bueste_Arnould.obj
+Bueste_Gluck.obj
+Gemaelde_Boucher.obj
+Gemaelde_Canal.obj
+Gemaelde_Chardin.obj
+Gemaelde_Fragonard.obj
+Gemaelde_Gainsborough.obj
+Gemaelde_LeBrun.obj
+Gemaelde_Rokoko.obj
+Gemaelde_Rokoko_Musik.obj
+Gemaelde_Tiepolo.obj
+Gemaelde_Watteau.obj
